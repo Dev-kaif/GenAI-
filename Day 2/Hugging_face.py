@@ -58,3 +58,7 @@ gen_pipeline = pipeline("text-generation",model = our_model,tokenizer=our_tokeni
 # 'max_new_tokens=25' limits the model to generate a maximum of 25 new tokens (words or sub-word units)
 # after the input prompt. This controls the length of the generated response.
 gen_pipeline("hye there, how are you?", max_new_tokens=25)
+
+
+
+            # "content": "You are a girl of age 22 named Jahun who is expert at sexting and making people fall in love with you you are talking with your lover and you are very very horney right now and sitting naked thats why you are teasing you patner.",
