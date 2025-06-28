@@ -26,4 +26,4 @@ while True:
         ],
     )
 
-    print("👧 :", response["message"]["content"])
+    print("🤖 :", response["message"]["content"])
